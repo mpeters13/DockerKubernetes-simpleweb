@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "bootstrap": "^5.2.1",
+        "express": "*",
+        "node-sass": "^7.0.3",
+        "path": "*"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}

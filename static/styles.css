@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico|Roboto");
+body {
+    background: #428bca;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+    font-family: 'Pacifico', cursive;
+    font-size: 4em;
+    margin-bottom:1em;
+}
+
+form {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+input {
+    margin-top: 10px;
+}
